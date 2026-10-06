@@ -16,38 +16,6 @@
 
 ---
 
-### Quick Snapshot
-
-```typescript
-const baoan = {
-  name: "Nguyen Bao An",
-  role: "Software Engineer / Backend Developer",
-  status: "Final-year Software Engineering Student @ VNUHCM - University of Science",
-  academicStanding: "Cumulative GPA: 3.8 / 4.0 (Academic Excellence Scholarship)",
-  englishProficiency: "TOEIC 775 (L&R) / TOEIC 280 (S&W)",
-  location: "Ho Chi Minh City, Vietnam",
-  coreFocus: [
-    "Scalable Backend & Distributed Systems",
-    "Cloud Infrastructure & DevOps (CI/CD, K8s, Observability)",
-    "High-Concurrency Architectures",
-    "Agentic AI & Hybrid GraphRAG Pipelines"
-  ],
-  currentStack: {
-    languages: ["Java", "Python", "TypeScript", "SQL", "C/C++"],
-    backend: ["Spring Boot", "FastAPI", "NestJS", "Express.js"],
-    databases: ["PostgreSQL", "Redis", "Neo4j", "Qdrant"],
-    devops: ["Docker", "Kubernetes (K3s)", "Jenkins", "GitHub Actions", "Prometheus", "Grafana"]
-  },
-  engineeringValues: [
-    "Clean Architecture & SOLID principles",
-    "Rigorous automated testing (Unit, Integration, AST Boundary Contracts)",
-    "Responsible adoption of AI-assisted engineering with continuous validation"
-  ]
-};
-```
-
----
-
 ### About Me
 
 - **Education:** Final-year Software Engineering student at **VNUHCM – University of Science** (Cumulative GPA: **3.8 / 4.0**, Academic Excellence Scholarship).
