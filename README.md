@@ -18,11 +18,7 @@
 
 ### About Me
 
-- **Education:** Final-year Software Engineering student at **VNUHCM – University of Science** (Cumulative GPA: **3.8 / 4.0**, Academic Excellence Scholarship).
-- **Core Focus:** Architecting reliable, high-performance backend systems, distributed architectures, and automated cloud pipelines.
-- **Engineering Rigor:** Committed to **Clean Architecture**, **Test-Driven Development (TDD)**, and automated quality gates (**JUnit**, **JaCoCo**, **Pytest**, **SonarQube**).
-- **DevOps & Cloud:** Hands-on experience with multi-stage CI/CD pipelines (**Jenkins**, **GitHub Actions**), containerization (**Docker**), GitOps orchestration (**K3s**, **ArgoCD**), and observability (**Prometheus**, **Grafana**, **Loki**).
-- **AI-Native Engineering:** Practical experience integrating LLMs with strict schema validation and safety guardrails.
+Final-year Software Engineering student at **VNUHCM – University of Science** (GPA 3.8/4.0). Focused on building scalable backend architectures, cloud infrastructure (CI/CD, Docker, Kubernetes), and robust systems with a strong commitment to clean code and automated testing.
 
 ---
 
