@@ -22,7 +22,7 @@
 - **Core Focus:** Architecting reliable, high-performance backend systems, distributed architectures, and automated cloud pipelines.
 - **Engineering Rigor:** Committed to **Clean Architecture**, **Test-Driven Development (TDD)**, and automated quality gates (**JUnit**, **JaCoCo**, **Pytest**, **SonarQube**).
 - **DevOps & Cloud:** Hands-on experience with multi-stage CI/CD pipelines (**Jenkins**, **GitHub Actions**), containerization (**Docker**), GitOps orchestration (**K3s**, **ArgoCD**), and observability (**Prometheus**, **Grafana**, **Loki**).
-- **AI-Native Engineering:** Practical experience integrating LLMs (**Gemini API**, **Ollama**) with strict schema validation and safety guardrails.
+- **AI-Native Engineering:** Practical experience integrating LLMs with strict schema validation and safety guardrails.
 
 ---
 
